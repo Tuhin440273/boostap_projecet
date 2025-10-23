@@ -1,0 +1,20 @@
+# Node.js dependencies folder
+node_modules/
+
+# Environment file
+.env
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+
+# Temporary build files
+dist/
+build/
+temp/
+
+# IDE (code editor) config files
+.vscode/
+.idea/
